@@ -2,24 +2,24 @@ Mongolian-phonetic keyboard layout for OSX
 ==========================================
 
 Cloned from https://github.com/amgaa/mongolian-phonetic
-`Ukelele-г шинэчилж, алдаатай хэсгүүдийг зассан`
+`Ukelele-г шинэчилж, алдаатай хэсгүүдийг засаж илүү сайжруулсан`
 
 Яг Латин үсгээр бичиж байгаа юм шиг криллээр бичих OSX-д зориулсан
 keyboard layout.
 
 Жишээ нь:
-“Mongol hel”
+“Minii Mongol hel soyol”
 гэж бичихэд
-“Монгол хэл”
+“Миний Монгол хэл соёл”
 гэж бичигдэх юм.
 
-Шинээр товчлуурын байршил цээжлэх, кэйбоoрд дээрээ
-крилл үсгийн хуулга нэмж наах хэрэг огт байхгүй. Туршаад үзээрэй.
+Шинээр товчлуурын байршил цээжлэх, keyboard дээрээ крилл үсгийн хуулга нэмж наах хэрэг огт байхгүй.
 
 Дэлгэрэнгүй:
 Доорх жагсаалтын зүүн талд байгаа крилл үсгүүдийг бичихийн тулд баруун
 талд байгаа латин товчуудыг дарахад хангалттай.
 
+```
 ц -> ts эсвэл c
 ч -> ch
 ш -> sh
@@ -29,13 +29,20 @@ keyboard layout.
 ө -> q
 ү -> w
 в -> v
-й -> i’
+ай -> ai
+эй -> ei
+ой -> oi
+уй -> ui
+өй -> qi
+үй -> wi
+ий -> ii
 ы -> y
-ь -> ''
-ъ -> ;;
+ь -> ;;
+ъ -> ::
+```
 
 Суулгахдаа:
-1) Mongolian-phonetit.keylayout болон Mongolian-phonetic.icns гэсэн файлуудыг татаж, Macintosh HD/Library/Keyboard Layouts/ фолдерт хуулна.
+1) Mongolian-phonetic.keylayout болон Mongolian-phonetic.icns гэсэн файлуудыг татаж, ~/Library/Keyboard Layouts/ фолдерт хуулна.
 2) System Preference -> Keyboard -> Input Sources -> Add (+) -> Others гэж ороод Mongolian-phonetit-г сонгож нэмнэ.
 
 Voila!
