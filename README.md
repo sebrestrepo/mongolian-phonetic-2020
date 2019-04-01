@@ -42,7 +42,10 @@ keyboard layout.
 ```
 
 Суулгахдаа:
-1) Mongolian-phonetic.keylayout болон Mongolian-phonetic.icns гэсэн файлуудыг татаж, ~/Library/Keyboard Layouts/ фолдерт хуулна.
-2) System Preference -> Keyboard -> Input Sources -> Add (+) -> Others гэж ороод Mongolian-phonetit-г сонгож нэмнэ.
+
+1. Доорх 2 аргаас нэгийг нь сонгож суулгана.
+    - `chmod u+x install.sh && ./install.sh` гэсэн команд ажиллуулах
+    - Mongolian-phonetic.keylayout болон Mongolian-phonetic.icns гэсэн файлуудыг татаж, ~/Library/Keyboard Layouts/ фолдерт хуулна.
+2. System Preference -> Keyboard -> Input Sources -> Add (+) -> Others гэж ороод Mongolian-phonetit-г сонгож нэмнэ.
 
 Voila!
